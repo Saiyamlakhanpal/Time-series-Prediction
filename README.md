@@ -8,7 +8,7 @@ Time series analysis comprises methods for analyzing time series data in order t
 In this Project, I aim to predict Para 9-13 for the 10th year in the dataset regarding road parameters for various sections using Para 1-10 and previous year data.
 
 ## Model used
-LightGBM regression is used.
+XGBoost Regressor is used.
 
 ## Installation
 
